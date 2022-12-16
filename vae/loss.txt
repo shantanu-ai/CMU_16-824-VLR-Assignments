@@ -1,0 +1,241 @@
+python train.py
+AE, latent: 16
+Files already downloaded and verified
+epoch:  0 beta:  1
+epoch:  1 beta:  1
+epoch:  2 beta:  1
+epoch:  3 beta:  1
+epoch:  4 beta:  1
+4 {'recon_loss': 208.48827}
+4 {'recon_loss': 210.37662}
+epoch:  5 beta:  1
+epoch:  6 beta:  1
+epoch:  7 beta:  1
+epoch:  8 beta:  1
+epoch:  9 beta:  1
+9 {'recon_loss': 200.88309}
+9 {'recon_loss': 205.4941}
+epoch:  10 beta:  1
+epoch:  11 beta:  1
+epoch:  12 beta:  1
+epoch:  13 beta:  1
+epoch:  14 beta:  1
+14 {'recon_loss': 195.95174}
+14 {'recon_loss': 203.71371}
+epoch:  15 beta:  1
+epoch:  16 beta:  1
+epoch:  17 beta:  1
+epoch:  18 beta:  1
+epoch:  19 beta:  1
+19 {'recon_loss': 191.72206}
+19 {'recon_loss': 203.09409}
+AE, latent: 128
+Files already downloaded and verified
+epoch:  0 beta:  1
+epoch:  1 beta:  1
+epoch:  2 beta:  1
+epoch:  3 beta:  1
+epoch:  4 beta:  1
+4 {'recon_loss': 93.57177}
+4 {'recon_loss': 86.46511}
+epoch:  5 beta:  1
+epoch:  6 beta:  1
+epoch:  7 beta:  1
+epoch:  8 beta:  1
+epoch:  9 beta:  1
+9 {'recon_loss': 62.253365}
+9 {'recon_loss': 62.189587}
+epoch:  10 beta:  1
+epoch:  11 beta:  1
+epoch:  12 beta:  1
+epoch:  13 beta:  1
+epoch:  14 beta:  1
+14 {'recon_loss': 57.198242}
+14 {'recon_loss': 56.677948}
+epoch:  15 beta:  1
+epoch:  16 beta:  1
+epoch:  17 beta:  1
+epoch:  18 beta:  1
+epoch:  19 beta:  1
+19 {'recon_loss': 55.824337}
+19 {'recon_loss': 56.047264}
+AE, latent: 1024
+Files already downloaded and verified
+epoch:  0 beta:  1
+epoch:  1 beta:  1
+epoch:  2 beta:  1
+epoch:  3 beta:  1
+epoch:  4 beta:  1
+4 {'recon_loss': 81.01778}
+4 {'recon_loss': 79.842636}
+epoch:  5 beta:  1
+epoch:  6 beta:  1
+epoch:  7 beta:  1
+epoch:  8 beta:  1
+epoch:  9 beta:  1
+9 {'recon_loss': 45.679707}
+9 {'recon_loss': 43.076157}
+epoch:  10 beta:  1
+epoch:  11 beta:  1
+epoch:  12 beta:  1
+epoch:  13 beta:  1
+epoch:  14 beta:  1
+14 {'recon_loss': 33.630066}
+14 {'recon_loss': 33.084816}
+epoch:  15 beta:  1
+epoch:  16 beta:  1
+epoch:  17 beta:  1
+epoch:  18 beta:  1
+epoch:  19 beta:  1
+19 {'recon_loss': 26.431501}
+19 {'recon_loss': 25.233215}
+VAE, latent: 1024
+Files already downloaded and verified
+epoch:  0 beta:  1
+epoch:  1 beta:  1
+epoch:  2 beta:  1
+epoch:  3 beta:  1
+epoch:  4 beta:  1
+4 {'recon_loss': 205.03865, 'kl_loss': 59.706684}
+4 {'recon_loss': 201.6398, 'kl_loss': 54.714233}
+epoch:  5 beta:  1
+epoch:  6 beta:  1
+epoch:  7 beta:  1
+epoch:  8 beta:  1
+epoch:  9 beta:  1
+9 {'recon_loss': 158.91902, 'kl_loss': 56.1764}
+9 {'recon_loss': 157.05135, 'kl_loss': 55.485023}
+epoch:  10 beta:  1
+epoch:  11 beta:  1
+epoch:  12 beta:  1
+epoch:  13 beta:  1
+epoch:  14 beta:  1
+14 {'recon_loss': 144.04175, 'kl_loss': 58.21047}
+14 {'recon_loss': 144.13872, 'kl_loss': 58.183605}
+epoch:  15 beta:  1
+epoch:  16 beta:  1
+epoch:  17 beta:  1
+epoch:  18 beta:  1
+epoch:  19 beta:  1
+19 {'recon_loss': 138.25026, 'kl_loss': 59.423996}
+19 {'recon_loss': 137.70381, 'kl_loss': 60.082886}
+VAE, Beta: 0.8
+Files already downloaded and verified
+epoch:  0 beta:  0.8
+epoch:  1 beta:  0.8
+epoch:  2 beta:  0.8
+epoch:  3 beta:  0.8
+epoch:  4 beta:  0.8
+4 {'recon_loss': 189.11665, 'kl_loss': 70.5809}
+4 {'recon_loss': 179.79196, 'kl_loss': 68.72123}
+epoch:  5 beta:  0.8
+epoch:  6 beta:  0.8
+epoch:  7 beta:  0.8
+epoch:  8 beta:  0.8
+epoch:  9 beta:  0.8
+9 {'recon_loss': 143.31476, 'kl_loss': 66.01151}
+9 {'recon_loss': 142.60739, 'kl_loss': 65.95835}
+epoch:  10 beta:  0.8
+epoch:  11 beta:  0.8
+epoch:  12 beta:  0.8
+epoch:  13 beta:  0.8
+epoch:  14 beta:  0.8
+14 {'recon_loss': 132.0339, 'kl_loss': 68.73831}
+14 {'recon_loss': 130.80763, 'kl_loss': 70.13032}
+epoch:  15 beta:  0.8
+epoch:  16 beta:  0.8
+epoch:  17 beta:  0.8
+epoch:  18 beta:  0.8
+epoch:  19 beta:  0.8
+19 {'recon_loss': 124.52591, 'kl_loss': 70.285194}
+19 {'recon_loss': 126.77383, 'kl_loss': 68.30172}
+VAE, Beta: 1.0
+Files already downloaded and verified
+epoch:  0 beta:  1.0
+epoch:  1 beta:  1.0
+epoch:  2 beta:  1.0
+epoch:  3 beta:  1.0
+epoch:  4 beta:  1.0
+4 {'recon_loss': 213.0711, 'kl_loss': 63.51774}
+4 {'recon_loss': 204.64908, 'kl_loss': 63.076622}
+epoch:  5 beta:  1.0
+epoch:  6 beta:  1.0
+epoch:  7 beta:  1.0
+epoch:  8 beta:  1.0
+epoch:  9 beta:  1.0
+9 {'recon_loss': 159.82921, 'kl_loss': 56.585255}
+9 {'recon_loss': 161.79732, 'kl_loss': 55.132324}
+epoch:  10 beta:  1.0
+epoch:  11 beta:  1.0
+epoch:  12 beta:  1.0
+epoch:  13 beta:  1.0
+epoch:  14 beta:  1.0
+14 {'recon_loss': 143.55852, 'kl_loss': 58.29795}
+14 {'recon_loss': 145.77026, 'kl_loss': 57.72576}
+epoch:  15 beta:  1.0
+epoch:  16 beta:  1.0
+epoch:  17 beta:  1.0
+epoch:  18 beta:  1.0
+epoch:  19 beta:  1.0
+19 {'recon_loss': 138.57452, 'kl_loss': 59.71216}
+19 {'recon_loss': 139.46294, 'kl_loss': 59.758705}
+VAE, Beta: 1.2
+Files already downloaded and verified
+epoch:  0 beta:  1.2
+epoch:  1 beta:  1.2
+epoch:  2 beta:  1.2
+epoch:  3 beta:  1.2
+epoch:  4 beta:  1.2
+4 {'recon_loss': 218.65057, 'kl_loss': 52.395725}
+4 {'recon_loss': 210.18196, 'kl_loss': 53.704052}
+epoch:  5 beta:  1.2
+epoch:  6 beta:  1.2
+epoch:  7 beta:  1.2
+epoch:  8 beta:  1.2
+epoch:  9 beta:  1.2
+9 {'recon_loss': 170.76785, 'kl_loss': 49.34582}
+9 {'recon_loss': 166.48502, 'kl_loss': 50.932957}
+epoch:  10 beta:  1.2
+epoch:  11 beta:  1.2
+epoch:  12 beta:  1.2
+epoch:  13 beta:  1.2
+epoch:  14 beta:  1.2
+14 {'recon_loss': 156.6141, 'kl_loss': 50.976044}
+14 {'recon_loss': 162.14368, 'kl_loss': 55.16402}
+epoch:  15 beta:  1.2
+epoch:  16 beta:  1.2
+epoch:  17 beta:  1.2
+epoch:  18 beta:  1.2
+epoch:  19 beta:  1.2
+19 {'recon_loss': 147.91052, 'kl_loss': 52.202633}
+19 {'recon_loss': 147.81567, 'kl_loss': 52.350548}
+VAE linear beta, Beta: 1.0
+Files already downloaded and verified
+epoch:  0 beta:  0.0
+epoch:  1 beta:  0.05263157894736842
+epoch:  2 beta:  0.10526315789473684
+epoch:  3 beta:  0.15789473684210525
+epoch:  4 beta:  0.21052631578947367
+4 {'recon_loss': 132.51192, 'kl_loss': 176.73341}
+4 {'recon_loss': 125.87284, 'kl_loss': 166.35222}
+epoch:  5 beta:  0.2631578947368421
+epoch:  6 beta:  0.3157894736842105
+epoch:  7 beta:  0.3684210526315789
+epoch:  8 beta:  0.42105263157894735
+epoch:  9 beta:  0.47368421052631576
+9 {'recon_loss': 110.14024, 'kl_loss': 106.5955}
+9 {'recon_loss': 109.10207, 'kl_loss': 106.920364}
+epoch:  10 beta:  0.5263157894736842
+epoch:  11 beta:  0.5789473684210527
+epoch:  12 beta:  0.631578947368421
+epoch:  13 beta:  0.6842105263157894
+epoch:  14 beta:  0.7368421052631579
+14 {'recon_loss': 113.63036, 'kl_loss': 83.91986}
+14 {'recon_loss': 114.134964, 'kl_loss': 85.002174}
+epoch:  15 beta:  0.7894736842105263
+epoch:  16 beta:  0.8421052631578947
+epoch:  17 beta:  0.894736842105263
+epoch:  18 beta:  0.9473684210526315
+epoch:  19 beta:  1.0
+19 {'recon_loss': 123.49229, 'kl_loss': 69.73243}
+19 {'recon_loss': 124.899315, 'kl_loss': 68.60484}
