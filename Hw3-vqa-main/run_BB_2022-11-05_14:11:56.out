@@ -1,0 +1,67 @@
+loading VQA annotations and questions into memory...
+creating index...
+index created!
+loading VQA annotations and questions into memory...
+creating index...
+index created!
+248349 121512
+Epoch: 1/10
+0.31485180412371133
+
+Validation
+0.3130801896109026
+Saving Checkpoint
+Epoch: 2/10
+0.3278431056701031
+
+Validation
+0.3438590427282902
+Saving Checkpoint
+Epoch: 3/10
+0.34880798969072163
+
+Validation
+0.3630587925472381
+Saving Checkpoint
+Epoch: 4/10
+0.35485663659793815
+
+Validation
+0.3220504970702482
+Updating Checkpoint
+Epoch: 5/10
+0.3595602448453608
+
+Validation
+0.4100088880110606
+Saving Checkpoint
+Epoch: 6/10
+0.37150451030927834
+
+Validation
+0.4488692474817302
+Saving Checkpoint
+Epoch: 7/10
+0.38322326030927834
+
+Validation
+0.3762509052603858
+Updating Checkpoint
+Epoch: 8/10
+0.3933311855670103
+
+Validation
+0.48474224767924157
+Saving Checkpoint
+Epoch: 9/10
+0.403918331185567
+
+Validation
+0.5184014747514649
+Saving Checkpoint
+Epoch: 10/10
+0.4177110180412371
+
+Validation
+0.41562150240305484
+Updating Checkpoint
